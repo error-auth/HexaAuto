@@ -6,7 +6,7 @@ api_id = 4608923
 api_hash = '0fc54e6096c9cd77cd1e1954b899676d'
 
 # List of session files for different accounts
-session_files = ['account1.session', 'account2.session']
+session_files = ['account1.session', 'account2.session', 'account3.session', 'account4.session']
 
 class Account:
     def __init__(self, session_file):
